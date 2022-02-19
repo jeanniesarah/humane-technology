@@ -1,6 +1,6 @@
 ### Foundations of Humane Technology Program
 
-Building human capacity to meet the challenges of our time.
+The Fundamentals of Humane Technology program explores the personal, societal, and practical challenges of being a humane technologist.
 
 From extreme weather to growing inequity, humanity is facing catastrophic and even existential risks. We can choose whether the technology we build will accelerate these challenges or help build the capacity to meet them.
 
