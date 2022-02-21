@@ -22,7 +22,7 @@ Course Access: https://www.humanetech.com/course
 
 ---
 
-### **Module 1 | Setting the Stage** (completed)
+### **Module 1 | Setting the Stage**
 
 We open with an overview of the complex environment technology is developed in, including social, psychological, and economic structures and paradigms.
 
@@ -30,7 +30,7 @@ _What challenges define this moment in history and how can the technology we bui
 
 ---
 
-### **Module 2 | Respecting Human Nature** (completed)
+### **Module 2 | Respecting Human Nature**
 
 We'll take a candid look at how technology can support and protect the human vulnerabilities and biases that we have evolved with.
 
