@@ -4,6 +4,8 @@ We’ll explore new paradigms for economic and value systems that allow companie
 
 _What economic forces affect products, and how can product teams help address and reduce harmful externalities?_
 
+TLDR: systemic fragility will persist as long as it is culturally and legally justifiable.
+
 #### Introduction
 
 A humane technologist is in a continual process of identifying and accounting for the externalities (unaccounted side effects) of their products.

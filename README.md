@@ -4,6 +4,20 @@ The Fundamentals of Humane Technology program explores the personal, societal, a
 
 From extreme weather to growing inequity, humanity is facing catastrophic and even existential risks. We can choose whether the technology we build will accelerate these challenges or help build the capacity to meet them.
 
+[_Foundations of Humane Technology_](https://go.participate.com/humanetechnology) will **prepare product teams** to create technology that treats attention and intention as sacred, protects well-being, minimizes unforeseen consequences, and ultimately **builds our collective capacity** to address the most urgent challenges facing humanity.
+
+VISIONARY -
+
+> Explore unexpected ways your team can impact the critical challenges facing our civilization, from climate change and rising wealth inequality to the global epidemic of social isolation. Get clear on your values, and refine a sense of purpose that will attract top talent and provide resilience in times of conflict.
+
+PRAGMATIC -
+
+> Learn concrete practices to help shift your team towards a humane model of value creation, from designing to meet human psychological needs to powerful reflective questions that build a humane product culture.
+
+CONNECTED -
+
+> Access a community of thousands of professionals working to build humane products. Join online conversations and regular events to connect with peers grappling with similar issues. Join a broader humane technology movement where you can find your next hire, influence public policy, and track industry trends.
+
 ---
 
 ### **Module 1 | Setting the Stage** (completed)
@@ -22,7 +36,7 @@ _How can technology work in harmony with the vulnerabilities and biases with whi
 
 ---
 
-### **Module 3 | Minimizing Harmful Consequences**
+### **Module 3 | Minimizing Harmful Consequences** (completed)
 
 We’ll explore new paradigms for economic and value systems that allow companies to address and reduce externalities.
 
@@ -30,7 +44,7 @@ _What economic forces affect products, and how can product teams help address an
 
 ---
 
-### **Module 4 | Centering Values**
+### **Module 4 | Centering Values** (wip)
 
 We’ll explore the extent to which technology shapes our world, and reflect on the conditions and values that have shaped each of our journeys in life.
 
