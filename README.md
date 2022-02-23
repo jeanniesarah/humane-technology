@@ -52,7 +52,7 @@ _How do the conditions of our lives shape our values? How might product developm
 
 ---
 
-### **Module 5 | Creating Shared Understanding** (wip)
+### **Module 5 | Creating Shared Understanding** (completed)
 
 We’ll look at how technology can engender trust, good will, and understanding, while weaving a stronger social fabric.
 
