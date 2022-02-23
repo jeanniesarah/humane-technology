@@ -44,7 +44,7 @@ _What economic forces affect products, and how can product teams help address an
 
 ---
 
-### **Module 4 | Centering Values** (wip)
+### **Module 4 | Centering Values** (completed)
 
 We’ll explore the extent to which technology shapes our world, and reflect on the conditions and values that have shaped each of our journeys in life.
 
@@ -52,7 +52,7 @@ _How do the conditions of our lives shape our values? How might product developm
 
 ---
 
-### **Module 5 | Creating Shared Understanding**
+### **Module 5 | Creating Shared Understanding** (wip)
 
 We’ll look at how technology can engender trust, good will, and understanding, while weaving a stronger social fabric.
 
