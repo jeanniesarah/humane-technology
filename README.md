@@ -60,7 +60,7 @@ _How can technology engender the trust and understanding we need to solve comple
 
 ---
 
-### **Module 6 | Supporting Fairness and Justice** (wip)
+### **Module 6 | Supporting Fairness and Justice** (completed)
 
 We’ll discuss how technology can decrease the gap between the privileged and the marginalized and explore ways to prioritize positive social outcomes in design.
 
