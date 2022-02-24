@@ -68,7 +68,7 @@ _How can technology address inequity and practically integrate voices of people 
 
 ---
 
-### **Module 7 | Helping People Thrive**
+### **Module 7 | Helping People Thrive** (completed)
 
 We’ll complete our journey through humane technology with a thoughtful and practical look at how we can help ourselves and those around us be our best.
 
