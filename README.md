@@ -76,7 +76,7 @@ _How can products help people act in alignment with their deeper intentions, rat
 
 ---
 
-### **Module 8 | Ready to Act**
+### **Module 8 | Ready to Act** (completed)
 
 A practical takeaway with recommendations for product teams, and pathways to leadership and deeper involvement in the CHT community.
 
